@@ -4,3 +4,4 @@ rembg
 ultralytics
 numpy
 transformers 
+onnxruntime
