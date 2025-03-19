@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+rembg
+ultralytics
+numpy
+transformers 
