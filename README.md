@@ -25,6 +25,8 @@ rembg
 ultralytics
 numpy
 transformers
+onnxruntime
+
 
 Steps
 1.Clone the repository: git clone <repo_link>
